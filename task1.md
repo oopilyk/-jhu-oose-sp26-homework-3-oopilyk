@@ -11,6 +11,10 @@ Classes and Interfaces
 7. Car - Class for cars
 8. Bus - Class for buses
 
+UML Class Diagram
+
+See task1.png for the UML class diagram.
+
 Design Justification
 
 Class Structure Rationale
